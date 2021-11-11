@@ -1,0 +1,155 @@
+html{
+    background-color: #f5e7c0;
+}
+.container{
+    width: 1440px;
+    height: 1600px;
+}
+.header{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 180px;
+    margin-right: 180px;
+    
+
+
+}
+.column{
+    display: flex;
+    margin-top: 60px;
+    padding-left: 45px;
+    
+}
+
+.font{
+    font-size: 24px;
+    font-family: arial;
+    color: #755800;
+    padding-right: 30px;
+    list-style: none;
+    text-decoration: none;
+}
+.line{
+    margin-top: 10px;
+    border-bottom: 1px solid #755800;
+    width: 1440px;
+}
+
+.background{
+    margin-top: 60px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 0%;
+}
+.box{
+    border-top: solid #755800;
+    border-bottom: solid #755800;
+    text-align: center;
+    font-family: Arial;
+    margin-top: 50px;
+    font-weight: bold;
+    color: #4e391c;
+    font-size: 36px;
+}
+
+.bigbox{
+    margin-left: 247px;
+    display: flex;
+    font-family: arial;
+    margin-top: 60px;
+}
+
+.box1{
+    margin-left: 20px;
+    
+
+}
+.box2{
+    background-color: #f4d394;
+    
+    height: 80px;
+    padding-left:40px;
+}
+.box3{
+    background-color: #F5DDAA;
+    width: 462px;
+    height: 268px;
+    margin: 0%;
+}
+.h1{
+
+    line-height: 3;
+    margin: 0%;
+    font-size: 24px;
+    color: #4E391C;
+}
+.h2{
+    margin: 0%;
+    font-size: 18px;
+    font-weight: bold;
+    color: #4E391c;
+}
+.p{
+    font-size: 18px;
+    font-family: arial;
+    color: #755800
+}
+.h22{
+    margin-left: 40px;
+    margin-right: 20px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.store{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 60px;
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+}
+.stock{
+    margin-right: 20px;
+}
+.amazing{
+    margin-top: 10px;
+    font-size: 18px;
+    font-family: arial;
+    font-weight: bold;
+    color: #4e391c;
+    background-color: #F5DDAA;
+}
+.footer{
+    margin-top: 45px;
+    padding-top: 30px;
+    width: 1440px;
+    height: 106px;
+    background-color: #ad8b58;
+    text-align: center;
+    font-family: arial;
+    color: #fcDeB2;
+}
+.con{
+    font-weight: bold;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    
+}
+.pp{
+    margin: 0;
+    padding: 0;
+}
+ul li a {
+    color: #755800;
+  
+   text-decoration:none;
+   display:block;
+  }
+  nav ul li:hover > a{
+  border-bottom: #4E391c;
+}
+nav ul li:hover {
+    background: #333333;
+  }
