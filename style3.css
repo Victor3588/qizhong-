@@ -1,0 +1,174 @@
+html{
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+body{
+    margin: 0px;
+}
+
+.container{
+    width: 1440px;
+    height: 1960px;
+    background-color: #f5e7c0;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header{
+    display: flex;
+    padding-top: 40px;
+    padding-left: 180px;
+    padding-right: 180px;
+    
+
+
+}
+.column{
+    display: flex;
+    margin-top: 60px;
+    padding-left: 45px;
+    
+}
+
+.font{
+    font-size: 24px;
+    font-family: arial;
+    color: #755800;
+    padding-right: 30px;
+    list-style: none;
+    text-decoration: none;
+}
+.line{
+    margin-top: 10px;
+    border-bottom: 1px solid #755800;
+    width: 1440px;
+}
+
+.background{
+    margin-top: 60px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 0%;
+}
+.box{
+    width: 1140px;
+    height: 66px;
+    margin-left:150px;
+    margin-right: 150px;
+    line-height: 66px;
+    border-top: 3px solid #755800;
+    border-bottom: 3px solid #755800;
+    text-align: center;
+    font-family: Arial;
+    margin-top: 50px;
+    font-weight: bold;
+    color: #4e391c;
+    font-size: 36px;
+}
+
+.store{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 90px;
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+}
+.store2{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 60px;
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+}
+.stock{
+    margin-right: 165px;
+} 
+.amazing{
+    height:40px ;
+    width: 270px;
+    margin-top:-4px;
+    font-size: 18px;
+    text-align: center;
+    line-height: 40px;
+    font-family: arial;
+    font-weight: bold;
+    color: #4e391c;
+    background-color: #F5DDAA;
+}
+.money{
+    width: 268;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    font-family: Arial;
+    font-size: 24px;
+    color: #755800;
+}
+.buynow{
+    width: 268px;
+    height: 50px;
+    background-color: #6A593C;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#EFE1C6;
+    font-family: Arial;
+}
+.more{
+    width: 1138px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    font-family: Arial;
+    font-size:18px ;
+    font-weight: bold;
+    color:#3C2A10;
+    border-radius: 20px;
+    background-color: #F5DDAA;
+    margin-top: 60px ;
+    margin-bottom: 60px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.footer{
+    padding-top: 30px;
+    width: 1440px;
+    height: 100px;
+    background-color: #ad8b58;
+    text-align: center;
+    font-family: arial;
+    color: #fcDeB2;
+    margin-left: auto;
+    margin-right: auto;
+}
+.con{
+    font-weight: bold;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    
+}
+ul {
+    padding-inline-start:0px ;
+}
+.pp{
+    margin: 0;
+    padding: 0;
+}
+ul li a {
+    color: #755800;
+  
+   text-decoration:none;
+   display:block;
+  }
+  nav ul li:hover > a{
+  border-bottom: #4E391c;
+}
+nav ul li:hover {
+    background: #333333;
+  }
